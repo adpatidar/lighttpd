@@ -1,0 +1,7 @@
+services:
+  lighttpimage:
+    image: adpatidar/lighthttpd:latest
+    container_name: Wellcome
+    ports:
+      - "8000:80"
+    tty: true
