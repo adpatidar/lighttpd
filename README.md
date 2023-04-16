@@ -4,7 +4,7 @@ Web directory to upload html file.
 /var/www/localhost/htdocs/
 
 build and run container with docker compose
-docker-compose up -d
+"docker-compose up -d"
 
 build a container
 "docker pull adpatidar/lighthttpd:latest"
